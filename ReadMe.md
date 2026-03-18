@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=00ff9c&center=true&width=435&lines=Always+learning...;Open+to+opportunities;Let's+build+something+cool!" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/reze.gif" alt="banner" width="75%" />
+  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/reze.gif" alt="banner" width="82.5%" />
 </div>
 
 ## <span style="color:#00ff9c;">🌐 Socials:</span>
@@ -28,9 +28,9 @@
 
 # <span style="color:#00ff9c;">📈 GitHub Stats:</span>
 <p align="center">
-  <img src="https://github-readme-stats-three-tau-eni93jr939.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=8600" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c" width="48%"/>
+  <img src="https://github-readme-stats-three-tau-eni93jr939.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=8600" width="50%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-three-tau-eni93jr939.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&include_all_commits=true&count_private=true&layout=compact" width="35%"/>
+  <img src="https://github-readme-stats-three-tau-eni93jr939.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
 </p>
