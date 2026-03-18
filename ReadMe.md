@@ -1,5 +1,7 @@
 <!-- Autoplay GIF (acts like video) -->
-
+<div align="center">
+  <img src="https://github.com/vertigotalks7/vertigotalks7/blob/main/reze.gif?raw=true" alt="banner" width="80%" style="aspect-ratio:16/9;object-fit:cover;" />
+</div>
 
 ## 🌐 Socials:
 
