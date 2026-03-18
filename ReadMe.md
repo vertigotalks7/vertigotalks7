@@ -1,7 +1,5 @@
 <!-- Autoplay GIF (acts like video) -->
 
-![reze](https://github.com/user-attachments/assets/15955123-4a06-40d6-8e09-8351c5fdf8ab)
-
 
 ## 🌐 Socials:
 
