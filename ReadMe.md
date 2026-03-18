@@ -3,9 +3,11 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21hampuN3BqajljNmdicXB3cXFtNm9vNDBwaXZlcDkxb2d4cTVsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S0ITYJjbmII7LySqHs/giphy.gif" width="90%" />
 </p>
+---
+
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge\&logo=linkedin\&logoColor=00ff9c)](https://linkedin.com/in/YOUR_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge\&logo=linkedin\&logoColor=00ff9c)](https://www.linkedin.com/in/angelo-joemon-455598329/)
 
 ---
 
@@ -31,7 +33,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&cache_seconds=80"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&cache_seconds=8600"/>
 </p>
 
 <p align="center">
