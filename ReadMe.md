@@ -1,7 +1,7 @@
 <!-- Autoplay GIF (acts like video) -->
 
 <p align="center">
-  <img src="https://i.giphy.com/media/S0ITYJjbmII7LySqHs/giphy.gif" width="70%" />
+  <img src="https://i.giphy.com/media/oTVKyoi9pBLmE/giphy.gif" width="100%" />
 </p>
 
 
