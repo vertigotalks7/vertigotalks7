@@ -9,8 +9,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=vertigotalks7&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=vertigotalks7&show_icons=true&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
