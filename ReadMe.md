@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=&fontSize=0" />
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-joemon-455598329) 
 
@@ -10,4 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=vertigotalks7&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</p>
