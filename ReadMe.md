@@ -1,7 +1,6 @@
 <!-- Autoplay GIF (acts like video) -->
-
 <p align="center">
-  <img src="https://i.giphy.com/media/oTVKyoi9pBLmE/giphy.gif" width="100%" />
+  <img src="https://tenor.com/cchqhztYxBB.gif" width="90%" />
 </p>
 
 
