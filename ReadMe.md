@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=&fontSize=0" />
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-joemon-455598329) 
 
