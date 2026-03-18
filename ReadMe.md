@@ -1,8 +1,5 @@
 <!-- Autoplay GIF (acts like video) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/giphy.gif" width="90%" />
-</p>
-
+![giphy](https://github.com/user-attachments/assets/e0b5939e-3b3d-4cb3-8ca5-2b8f27a743da)
 
 ## 🌐 Socials:
 
