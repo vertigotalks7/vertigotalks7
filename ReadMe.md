@@ -1,5 +1,5 @@
 <!-- Autoplay GIF (acts like video) -->
-
+![](https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/refs/heads/main/car.gif)
 
 ## 🌐 Socials:
 
