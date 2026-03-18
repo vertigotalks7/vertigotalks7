@@ -1,6 +1,6 @@
 <!-- Autoplay GIF (acts like video) -->
 <p align="center">
-  <img src="https://tenor.com/cchqhztYxBB.gif" width="90%" />
+  <img src="https://tenor.com/view/reze-denji-reze-csm-reze-chainsaw-man-denji-csm-gif-17197714288918397589" width="90%" />
 </p>
 
 
