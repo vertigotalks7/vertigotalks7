@@ -2,18 +2,12 @@
   <h1 style="color:#00ff9c;">Angelo Joemon</h1>
   <p>CS Student at RIT Kottayam • Learning Backend Dev • Building cool things</p>
 </div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/reze.gif" alt="banner" width="100%" />
 </div>
 
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge\&logo=linkedin\&logoColor=00ff9c)](https://www.linkedin.com/in/angelo-joemon-455598329/)
-
----
-
 # 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-0f2027?style=for-the-badge\&logo=c\&logoColor=00ff9c)
 ![Java](https://img.shields.io/badge/java-0f2027?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)
@@ -29,16 +23,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-0f2027?style=for-the-badge\&logo=numpy\&logoColor=00ff9c)
 ![Pandas](https://img.shields.io/badge/pandas-0f2027?style=for-the-badge\&logo=pandas\&logoColor=00ff9c)
 ![Git](https://img.shields.io/badge/git-0f2027?style=for-the-badge\&logo=git\&logoColor=00ff9c)
-
----
-
 # 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=8600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=8600" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&include_all_commits=true&count_private=true&layout=compact" width="50%"/>
 </p>
