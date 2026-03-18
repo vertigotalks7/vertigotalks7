@@ -1,6 +1,6 @@
 <!-- Autoplay GIF (acts like video) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/reze.gif" width="90%" /
+  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/giphy.gif" width="90%" /
 </p>
 
 ## 🌐 Socials:
