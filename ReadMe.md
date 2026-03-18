@@ -1,7 +1,8 @@
 <!-- Autoplay GIF (acts like video) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/giphy.gif" width="90%" />
+  <img src="giphy.gif" width="90%" />
 </p>
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge\&logo=linkedin\&logoColor=00ff9c)](https://www.linkedin.com/in/angelo-joemon-455598329/)
