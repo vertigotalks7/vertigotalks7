@@ -1,6 +1,6 @@
 <!-- Autoplay GIF (acts like video) -->
 <p align="center">
-  <img src="https://tenor.com/view/reze-denji-reze-csm-reze-chainsaw-man-denji-csm-gif-17197714288918397589" width="90%" />
+  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/your.gif" width="90%" />
 </p>
 
 
@@ -14,6 +14,7 @@
 
 ![C](https://img.shields.io/badge/c-0f2027?style=for-the-badge\&logo=c\&logoColor=00ff9c)
 ![Java](https://img.shields.io/badge/java-0f2027?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)
+![giphy](https://github.com/user-attachments/assets/2718ad2a-9956-402f-81d5-aa72f8949d6f)
 ![HTML5](https://img.shields.io/badge/html5-0f2027?style=for-the-badge\&logo=html5\&logoColor=00ff9c)
 ![CSS3](https://img.shields.io/badge/css3-0f2027?style=for-the-badge\&logo=css3\&logoColor=00ff9c)
 ![Python](https://img.shields.io/badge/python-0f2027?style=for-the-badge\&logo=python\&logoColor=00ff9c)
