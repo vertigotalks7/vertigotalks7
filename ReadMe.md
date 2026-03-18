@@ -1,6 +1,6 @@
 <!-- Autoplay GIF (acts like video) -->
 <p align="center">
-  <img src="giphy.gif" width="90%" />
+  <img src=giphy.gif width="90%" />
 </p>
 
 ## 🌐 Socials:
