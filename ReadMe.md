@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color:#00ff9c;">Angelo Joemon</h1>
-  <p>CS Student • Backend Dev • Building cool things</p>
+  <p>CS Student at RIT Kottayam • Learning Backend Dev • Building cool things</p>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-0f2027?style=for-the-badge\&logo=c\&logoColor=00ff9c)
 ![Java](https://img.shields.io/badge/java-0f2027?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)
 ![HTML5](https://img.shields.io/badge/html5-0f2027?style=for-the-badge\&logo=html5\&logoColor=00ff9c)
@@ -32,13 +32,13 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=0f2027&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=8600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=8600"/>
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=0f2027&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=0f2027&title_color=00ff9c&text_color=00ff9c&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
