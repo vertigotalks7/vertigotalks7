@@ -1,5 +1,5 @@
 <!-- Autoplay GIF (acts like video) -->
-<img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/car.gif" />
+<video src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/ezgif-5c55e2e37850d833.mp4" autoplay loop muted playsinline></video>
 
 ## 🌐 Socials:
 
