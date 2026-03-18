@@ -3,7 +3,7 @@
   <p>CS Student at RIT Kottayam • Learning Backend Dev • Building cool things</p>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/reze.gif" alt="banner" width="90%" />
+  <img src="https://raw.githubusercontent.com/vertigotalks7/vertigotalks7/main/reze.gif" alt="banner" width="75%" />
 </div>
 
 ## 🌐 Socials:
