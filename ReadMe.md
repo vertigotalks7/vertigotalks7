@@ -27,10 +27,22 @@
 ![Git](https://img.shields.io/badge/git-0f2027?style=for-the-badge\&logo=git\&logoColor=00ff9c)
 
 # <span style="color:#00ff9c;">📈 GitHub Stats:</span>
+
 <p align="center">
-  <img src="https://github-readme-stats-three-tau-eni93jr939.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=8600" width="50%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c" width="49%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=86400"
+    width="50%"
+  />
+
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c"
+    width="49%"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats-three-tau-eni93jr939.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&layout=compact&cache_seconds=86400"
+    width="45%"
+  />
 </p>
