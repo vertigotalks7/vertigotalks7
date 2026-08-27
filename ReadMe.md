@@ -28,13 +28,13 @@
 
 # <span style="color:#00ff9c;">📈 GitHub Stats:</span>
 
-# <span style="color:#00ff9c;">📈 GitHub Stats:</span>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vertigotalks7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vertigotalks7&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vertigotalks7&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c" width="49%" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=00ff9c&layout=compact" width="55%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vertigotalks7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
