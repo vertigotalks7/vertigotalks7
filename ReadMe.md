@@ -28,21 +28,13 @@
 
 # <span style="color:#00ff9c;">📈 GitHub Stats:</span>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true&cache_seconds=86400"
-    width="50%"
-  />
+# <span style="color:#00ff9c;">📈 GitHub Stats:</span>
 
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=vertigotalks7&hide_border=true&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c"
-    width="49%"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vertigotalks7&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=vertigotalks7&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=00ff9c&sideNums=00ff9c&currStreakNum=00ff9c" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=00000000&title_color=00ff9c&text_color=00ff9c&layout=compact&cache_seconds=86400"
-    width="45%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertigotalks7&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=00ff9c&layout=compact" width="55%" alt="Top Languages" />
 </p>
